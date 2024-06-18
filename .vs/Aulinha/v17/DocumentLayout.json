@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\source\\repos\\Aulinha\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0BD596-67EC-4258-9B27-8EDB3C3F3BAD}|Aulinha\\Aulinha.csproj|c:\\users\\lucas\\source\\repos\\aulinha\\aulinha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0BD596-67EC-4258-9B27-8EDB3C3F3BAD}|Aulinha\\Aulinha.csproj|solutionrelative:aulinha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0BD596-67EC-4258-9B27-8EDB3C3F3BAD}|Aulinha\\Aulinha.csproj|c:\\users\\lucas\\source\\repos\\aulinha\\aulinha\\entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0BD596-67EC-4258-9B27-8EDB3C3F3BAD}|Aulinha\\Aulinha.csproj|solutionrelative:aulinha\\entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0BD596-67EC-4258-9B27-8EDB3C3F3BAD}|Aulinha\\Aulinha.csproj|c:\\users\\lucas\\source\\repos\\aulinha\\aulinha\\entities\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0BD596-67EC-4258-9B27-8EDB3C3F3BAD}|Aulinha\\Aulinha.csproj|solutionrelative:aulinha\\entities\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0BD596-67EC-4258-9B27-8EDB3C3F3BAD}|Aulinha\\Aulinha.csproj|c:\\users\\lucas\\source\\repos\\aulinha\\aulinha\\entities\\enums\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0BD596-67EC-4258-9B27-8EDB3C3F3BAD}|Aulinha\\Aulinha.csproj|solutionrelative:aulinha\\entities\\enums\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0BD596-67EC-4258-9B27-8EDB3C3F3BAD}|Aulinha\\Aulinha.csproj|c:\\users\\lucas\\source\\repos\\aulinha\\aulinha\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0BD596-67EC-4258-9B27-8EDB3C3F3BAD}|Aulinha\\Aulinha.csproj|solutionrelative:aulinha\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Aulinha\\Aulinha\\Program.cs",
+              "RelativeDocumentMoniker": "Aulinha\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Aulinha\\Aulinha\\Program.cs",
+              "RelativeToolTip": "Aulinha\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwCYAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T00:22:52.438Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Aulinha\\Aulinha\\Entities\\Worker.cs",
+              "RelativeDocumentMoniker": "Aulinha\\Entities\\Worker.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Aulinha\\Aulinha\\Entities\\Worker.cs",
+              "RelativeToolTip": "Aulinha\\Entities\\Worker.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAADgvy0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T00:40:50.766Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HourContract.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Aulinha\\Aulinha\\Entities\\HourContract.cs",
+              "RelativeDocumentMoniker": "Aulinha\\Entities\\HourContract.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Aulinha\\Aulinha\\Entities\\HourContract.cs",
+              "RelativeToolTip": "Aulinha\\Entities\\HourContract.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T00:38:35.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Aulinha\\Aulinha\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "Aulinha\\Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Aulinha\\Aulinha\\Entities\\Department.cs",
+              "RelativeToolTip": "Aulinha\\Entities\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T00:35:57.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorkerLevel.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Aulinha\\Aulinha\\Entities\\Enums\\WorkerLevel.cs",
+              "RelativeDocumentMoniker": "Aulinha\\Entities\\Enums\\WorkerLevel.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Aulinha\\Aulinha\\Entities\\Enums\\WorkerLevel.cs",
+              "RelativeToolTip": "Aulinha\\Entities\\Enums\\WorkerLevel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T00:50:47.543Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
