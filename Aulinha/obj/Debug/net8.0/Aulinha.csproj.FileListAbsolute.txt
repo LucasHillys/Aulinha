@@ -1,0 +1,15 @@
+C:\Users\lucas.hillys\Desktop\projetos\Aulinha\Aulinha\bin\Debug\net8.0\Aulinha.exe
+C:\Users\lucas.hillys\Desktop\projetos\Aulinha\Aulinha\bin\Debug\net8.0\Aulinha.deps.json
+C:\Users\lucas.hillys\Desktop\projetos\Aulinha\Aulinha\bin\Debug\net8.0\Aulinha.runtimeconfig.json
+C:\Users\lucas.hillys\Desktop\projetos\Aulinha\Aulinha\bin\Debug\net8.0\Aulinha.dll
+C:\Users\lucas.hillys\Desktop\projetos\Aulinha\Aulinha\bin\Debug\net8.0\Aulinha.pdb
+C:\Users\lucas.hillys\Desktop\projetos\Aulinha\Aulinha\obj\Debug\net8.0\Aulinha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.hillys\Desktop\projetos\Aulinha\Aulinha\obj\Debug\net8.0\Aulinha.AssemblyInfoInputs.cache
+C:\Users\lucas.hillys\Desktop\projetos\Aulinha\Aulinha\obj\Debug\net8.0\Aulinha.AssemblyInfo.cs
+C:\Users\lucas.hillys\Desktop\projetos\Aulinha\Aulinha\obj\Debug\net8.0\Aulinha.csproj.CoreCompileInputs.cache
+C:\Users\lucas.hillys\Desktop\projetos\Aulinha\Aulinha\obj\Debug\net8.0\Aulinha.sourcelink.json
+C:\Users\lucas.hillys\Desktop\projetos\Aulinha\Aulinha\obj\Debug\net8.0\Aulinha.dll
+C:\Users\lucas.hillys\Desktop\projetos\Aulinha\Aulinha\obj\Debug\net8.0\refint\Aulinha.dll
+C:\Users\lucas.hillys\Desktop\projetos\Aulinha\Aulinha\obj\Debug\net8.0\Aulinha.pdb
+C:\Users\lucas.hillys\Desktop\projetos\Aulinha\Aulinha\obj\Debug\net8.0\Aulinha.genruntimeconfig.cache
+C:\Users\lucas.hillys\Desktop\projetos\Aulinha\Aulinha\obj\Debug\net8.0\ref\Aulinha.dll

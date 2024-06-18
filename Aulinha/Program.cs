@@ -35,9 +35,18 @@ namespace Aulinha
                 double valuePerHour = double.Parse(Console.ReadLine());
                 Console.Write("Duration (hours): ");
                 int hour = int.Parse(Console.ReadLine());
-
-                HourContract hourContract = new HourContract(date, valuePerHour, hour);
+                HourContract contract = new HourContract(date, valuePerHour, hour);
+                worker.AddContract(contract);
             } 
+            Console.WriteLine();
+            Console.Write("Enter month and year to calculate income (MM/YYYY): ");
+            string monthAndYear = Console.ReadLine();
+            int month = int.Parse(monthAndYear.Substring(0 , 2));
+            int year = int.Parse(monthAndYear.Substring (3));
+
+            Console.Write($"Name: {worker.Name}");
+            Console.Write($"Department: {worker.Department.Name}");
+            Console.Write($"Income for: {monthAndYear}: {worker.Income(year, month)}");
         }
     }
 }
